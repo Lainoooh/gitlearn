@@ -4,4 +4,6 @@ Git has a mutable index called stage.
 
 Git check checkout -- 
 
-git checkout -b dev and add and commit orgin master
+git checkout -b dev and add and commit orgin feature1
+
+git checkout -b feature1
