@@ -8,3 +8,5 @@ git checkout -b dev and add and commit orgin all master
 
 git checkout -b feature1
 
+git brach dev
+
